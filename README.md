@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-This project is run in Python 3 and mainly uses Tensorflow under the guidance of Anaconda to manage the environment. You can use platform other than anaconda at your convenience. The detailed anaconda package list can be found in the file [pkgs.yml](). 
+This project is run in Python 3 and mainly uses Tensorflow under the guidance of Anaconda to manage the environment. You can use platform other than anaconda at your convenience. The detailed anaconda package list can be found in the file [pkgs.yml](https://github.com/pancookie/DCGAN-PB/blob/master/pkgs.yml). 
 
 ## Database
 
