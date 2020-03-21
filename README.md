@@ -16,10 +16,13 @@ python train-dcgan.py
 ```
 It will run the project.
 
+## Authors
+Y. Pan (yang.pan@mavs.uta.edu)
+M.W. Jin
+Y. Deng
+S.R. Zhang
+
 ## Acknowledgments
 Original Version: [Taehoon Kim](http://carpedm20.github.io)
-# Source: https://github.com/carpedm20/DCGAN-tensorflow/blob/e30539fb5e20d5a0fed40935853da97e9e55eee8/model.py
-# License: MIT
 
 Modified Version: [Brandon Amos](http://bamos.github.io/2016/08/09/deep-completion)
-# Brandon Amos. Image Completion with Deep Learning in TensorFlow.
