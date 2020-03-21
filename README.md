@@ -18,8 +18,11 @@ It will run the project.
 
 ## Authors
 Y. Pan (yang.pan@mavs.uta.edu)
+
 M.W. Jin
+
 Y. Deng
+
 S.R. Zhang
 
 ## Acknowledgments
