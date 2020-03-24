@@ -29,3 +29,5 @@ S.R. Zhang
 [Taehoon Kim](https://github.com/carpedm20/DCGAN-tensorflow)
 
 [Brandon Amos](https://github.com/bamos/dcgan-completion.tensorflow)
+
+[Yeh (semantic inpainting)](https://github.com/moodoki/semantic_image_inpainting)
