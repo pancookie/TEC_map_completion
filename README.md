@@ -25,7 +25,7 @@ Y. Deng
 
 S.R. Zhang
 
-## Acknowledgments
-Original Version: [Taehoon Kim](http://carpedm20.github.io)
+## References
+[Taehoon Kim](https://github.com/carpedm20/DCGAN-tensorflow)
 
-Modified Version: [Brandon Amos](http://bamos.github.io/2016/08/09/deep-completion)
+[Brandon Amos](https://github.com/bamos/dcgan-completion.tensorflow)
