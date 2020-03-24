@@ -1,4 +1,4 @@
-# DCGAN-PB
+# Deep learning-based total electron content (TEC) map completion
 
 ## Prerequisites
 
