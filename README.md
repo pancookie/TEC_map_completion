@@ -1,4 +1,6 @@
 # Deep learning-based total electron content (TEC) map completion
+[![DOI](https://zenodo.org/badge/249016877.svg)](https://zenodo.org/badge/latestdoi/249016877)
+
 A deep convolutional generative adversarial network with Poisson blending  (DCGAN-PB) for TEC map completion.
 
 ## Prerequisites
